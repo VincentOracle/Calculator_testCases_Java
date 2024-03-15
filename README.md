@@ -144,7 +144,7 @@ etc . Test cases were also written, that check various scenarios, including edge
 error handling.
 
 ## Conclusion
-In conclusion, this assignment has successfully addressed defects in the Calculator
+In conclusion, this task has successfully addressed defects in the Calculator
 project source code and significantly improved its reliability. By introducing proper error
 handling and comprehensive unit tests, we have enhanced the overall quality of the codebase. The unit tests provide confidence in the correctness and robustness of the Calculator
 application, ensuring it functions as expected and handles various scenarios gracefully. This
